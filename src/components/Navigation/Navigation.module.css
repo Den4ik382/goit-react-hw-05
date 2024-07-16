@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+.active {
+  color: #efbb00;
+  font-size: 32px;
+}
+.notActive {
+  color: #000;
+  font-size: 20px;
+}
